@@ -1,4 +1,3 @@
-# Budget-Calculator
 # 💰 Budget Calculator
 
 ## 📌 Overview
