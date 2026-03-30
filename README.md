@@ -58,7 +58,9 @@ npm run dev
 
 Desktop
 <img width="1918" height="1084" alt="image" src="https://github.com/user-attachments/assets/42a9fe46-609e-451e-96bb-d32c8bc46f65" /> <br/>
+
 Mobile
+<br/>
 <img alt="image" width="300px" src="https://github.com/user-attachments/assets/6ea68957-b64c-4848-85be-1071a3155867" />
 
 
