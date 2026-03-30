@@ -6,6 +6,8 @@ This project was inspired by a recurring monthly habit: every time I receive my 
 
 The **Budget Calculator** simplifies this process by automatically calculating expenses and showing how much can be safely spent on a weekly basis — helping maintain a balanced budget without overspending.
 
+Try it! <a href="https://budget-calculator-ow1o0ko6s-abdulkarimalqarni.vercel.app?_vercel_share=8eyDr3RFnKaY8fbGc8DdXpUuy4cB1wkP">Budget Calculator</a>
+
 ---
 
 ## ✨ Features
