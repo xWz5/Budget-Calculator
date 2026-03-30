@@ -25,7 +25,7 @@ function Language() {
         <Button 
            aria-label={t("Change language")}
            onClick={changeLanguage}>
-           {lang === "ar"? "عربي" : "english" }
+           {lang === "ar"? "عربي" : "English" }
            </Button>
     </>)
 }export default Language;
